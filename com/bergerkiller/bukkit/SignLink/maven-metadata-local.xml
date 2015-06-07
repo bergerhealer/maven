@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bergerkiller.bukkit</groupId>
+  <artifactId>SignLink</artifactId>
+  <versioning>
+    <versions>
+      <version>1.35-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150606164849</lastUpdated>
+  </versioning>
+</metadata>

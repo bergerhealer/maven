@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.bergerkiller.bukkit</groupId>
-  <artifactId>BKCommonLib</artifactId>
-  <version>1.62-SNAPSHOT</version>
+  <artifactId>SignLink</artifactId>
+  <version>1.35-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20150606164812</lastUpdated>
+    <lastUpdated>20150606164849</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.62-SNAPSHOT</value>
-        <updated>20150606164812</updated>
+        <value>1.35-SNAPSHOT</value>
+        <updated>20150606164849</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.62-SNAPSHOT</value>
-        <updated>20150606145109</updated>
+        <value>1.35-SNAPSHOT</value>
+        <updated>20150606164849</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
