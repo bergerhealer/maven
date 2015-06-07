@@ -4,3 +4,4 @@
 publish-bk.bat
 publish-sl.bat
 publish-tc.bat
+publish-mw.bats
