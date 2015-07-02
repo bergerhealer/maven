@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bergerkiller.bukkit</groupId>
+  <artifactId>TrainCarts</artifactId>
+  <versioning>
+    <versions>
+      <version>1.74-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150702131435</lastUpdated>
+  </versioning>
+</metadata>
