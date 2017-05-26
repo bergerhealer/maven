@@ -1,6 +1,6 @@
 # download from ci
-wget -O Mountiplex.jar https://ci.mg-dev.eu/job/Mountiplex/lastSuccessfulBuild/artifact/target/mountiplex.jar
-wget -O pom.xml https://raw.githubusercontent.com/bergerhealer/Mountiplex/master/pom.xml
+wget -O MyWorlds.jar https://ci.mg-dev.eu/view/BKC%20Stable/job/MyWorlds/lastSuccessfulBuild/artifact/target/MyWorlds.jar
+wget -O pom.xml https://github.com/bergerhealer/MyWorlds/raw/master/pom.xml
 
 # install to repo
-mvn install:install-file -DpomFile=pom.xml -Dfile=Mountiplex.jar -DlocalRepositoryPath=../../../
+mvn install:install-file -DpomFile=pom.xml -Dfile=MyWorlds.jar -DlocalRepositoryPath=../../../
