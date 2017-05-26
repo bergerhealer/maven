@@ -1,1 +1,2 @@
 /scripts/**/**/*.jar
+/scripts/**/**/pom.xml
