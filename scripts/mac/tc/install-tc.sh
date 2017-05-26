@@ -1,6 +1,6 @@
 # download from ci
-wget -O Mountiplex.jar https://ci.mg-dev.eu/job/Mountiplex/lastSuccessfulBuild/artifact/target/mountiplex.jar
-wget -O pom.xml https://raw.githubusercontent.com/bergerhealer/Mountiplex/master/pom.xml
+wget -O TrainCarts.jar https://ci.mg-dev.eu/job/TrainCarts/lastSuccessfulBuild/artifact/target/TrainCarts.jar
+wget -O pom.xml https://raw.githubusercontent.com/bergerhealer/TrainCarts/master/pom.xml
 
 # install to repo
-mvn install:install-file -DpomFile=pom.xml -Dfile=Mountiplex.jar -DlocalRepositoryPath=../../../
+mvn install:install-file -DpomFile=pom.xml -Dfile=TrainCarts.jar -DlocalRepositoryPath=../../../
